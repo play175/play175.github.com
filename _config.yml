@@ -1,7 +1,7 @@
 title: 悠游悠游
-description: Tagline~
+description: Write the code. Change the world.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
